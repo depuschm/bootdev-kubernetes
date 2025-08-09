@@ -1,0 +1,4 @@
+# Resolve synchat domain names to IP addresses
+127.0.0.1 synchat.internal
+127.0.0.1 synchatapi.internal
+# End of section
